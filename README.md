@@ -1,6 +1,6 @@
 # los_4_Trabajos
 
-Repositorio para los 4 trabajos pedidos de la tarea
+Repositorio para los 4 trabajos pedidos de la tarea.
 
 Se usaron 4 ramas distintas para cada trabajo, se puede intercambiar y ver cada uno (para evitar hacer 4 repositorios distintos)
 
