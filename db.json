@@ -1,0 +1,19 @@
+{
+  "libros": [
+    {
+      "id": "1",
+      "titulo": "Yuru's Camp",
+      "autor": "Afro",
+      "isbn": "978-3-16-148410-0",
+      "leido": false
+    },
+    {
+      "titulo": "Baki The Grappler",
+      "autor": "Keisuke",
+      "isbn": "978-0-553-29335-7",
+      "leido": true,
+      "id": "kLfrtD-qV7A"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
