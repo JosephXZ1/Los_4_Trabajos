@@ -15,11 +15,3 @@ npm install
 ```sh
 npm run dev
 ```
-
-### Comando para alzar el nose como se llama pero el coso de Laravel (el servidor creo es)
-
-```sh
-php artisan serve
-```
-
-Nota: Es posible que falle al generar por cosas del PHP.ini (me dio muchos problemas a mi y tuve que desbloquear y descomentar cosas)
