@@ -3,30 +3,23 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "scripts": 
-  {
+  "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "format": "prettier --write --experimental-cli src/",
-    "server": "json-server --watch src/posts.json --port 8080"
+    "format": "prettier --write --experimental-cli src/"
   },
-  "dependencies": 
-  {
-    "axios": "^1.16.1",
+  "dependencies": {
     "vue": "^3.5.32",
-    "vue-router": "^4.6.4"
+    "vue-router": "^5.0.4"
   },
-  "devDependencies": 
-  {
+  "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.6",
-    "json-server": "^1.0.0-beta.15",
     "prettier": "3.8.3",
     "vite": "^8.0.8",
     "vite-plugin-vue-devtools": "^8.1.1"
   },
-  "engines": 
-  {
+  "engines": {
     "node": "^20.19.0 || >=22.12.0"
   }
 }
