@@ -15,3 +15,9 @@ npm install
 ```sh
 npm run dev
 ```
+
+### Comando para alzar el db.json (Se necesita la app esa de Postman para que sirva)
+
+```sh
+npx json-server --watch db.json --port 3000
+```
