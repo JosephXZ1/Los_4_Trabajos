@@ -6,12 +6,6 @@
 npm install
 ```
 
-### Comando para alzar el JSON Server
-
-```sh
-npm run server
-```
-
 ### Comando para alzar el servidor local
 
 ```sh
